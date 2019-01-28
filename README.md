@@ -1,5 +1,7 @@
 # Facial Recognition - SmartBrain
 
+This is the SmartBrain Back-end Code
+
 App is deployed on Heroku here:  
 
 https://smartbrain-drobinson.herokuapp.com/
